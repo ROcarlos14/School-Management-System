@@ -1,0 +1,1 @@
+{"success":true,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3N2RiNDc1YzEzM2ZhYmY3MzU3MjQ2MiIsImlhdCI6MTczNjI5MTQ1NSwiZXhwIjoxNzM2Mzc3ODU1fQ.5K4rnyVSEBMsjzecrstTPjckdzwLigCSjJjEDtJcpig"}
